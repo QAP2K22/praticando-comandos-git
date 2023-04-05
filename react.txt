@@ -1,0 +1,21 @@
+-- COMMAND FOR CREATE NEW PROJECT
+
+npx create-next-app@latest introducao --use-npm --example https://github.com/vercel/next-learn/tree/master/basics/learn-starter
+
+
+npm install -g npm@9.6.2
+
+typescript: não
+restante: sim
+'
+
+commands jsx
+
+
+rafce - criar componentes com export
+rafc - criar componentes sem export
+
+
+#NPM PARA INSTALAR O REACT BOOTSTRAP + BOOTSTRAP 
+
+npm install react-bootstrap bootstrap
